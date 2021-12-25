@@ -1,2 +1,7 @@
-# 3d-model
+# 3D-Models
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 3Dモデル置き場
+
+- ネコウオ
+- ウサ木
